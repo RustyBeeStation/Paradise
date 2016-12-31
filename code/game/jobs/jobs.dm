@@ -43,6 +43,7 @@ var/const/CHAPLAIN			=(1<<10)
 var/const/CLOWN				=(1<<11)
 var/const/MIME				=(1<<12)
 var/const/CIVILIAN			=(1<<13)
+var/const/BANKER			=(1<<14)
 
 
 var/const/KARMA				=(1<<3)
@@ -102,6 +103,7 @@ var/list/support_positions = list(
 	"Botanist",
 	"Chef",
 	"Janitor",
+	"Banker",
 	"Librarian",
 	"Quartermaster",
 	"Cargo Technician",

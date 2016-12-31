@@ -75,6 +75,7 @@
 /var/const/access_minisat = 75
 /var/const/access_mineral_storeroom = 76
 
+
 /var/const/access_weapons = 99 //Weapon authorization for secbots
 
 	//BEGIN CENTCOM ACCESS
@@ -235,7 +236,7 @@ var/const/access_trade_sol = 160
 	            access_tox, access_tox_storage, access_chemistry, access_engine, access_engine_equip, access_maint_tunnels,
 	            access_external_airlocks, access_change_ids, access_ai_upload,
 	            access_teleporter, access_eva, access_heads, access_captain, access_all_personal_lockers,
-	            access_tech_storage, access_chapel_office, access_atmospherics, access_kitchen,
+	            access_tech_storage, access_chapel_office, access_atmospherics, access_kitchen, access_mint,
 	            access_bar, access_janitor, access_crematorium, access_robotics, access_cargo, access_construction,
 	            access_hydroponics, access_library, access_lawyer, access_virology, access_psychiatrist, access_cmo, access_qm, access_clown, access_mime, access_surgery,
 	            access_theatre, access_research, access_mining, access_mailsorting,
@@ -270,7 +271,7 @@ var/const/access_trade_sol = 160
 		if(REGION_ENGINEERING) //engineering and maintenance
 			return list(access_construction, access_maint_tunnels, access_engine, access_engine_equip, access_external_airlocks, access_tech_storage, access_atmospherics, access_minisat, access_ce, access_mechanic)
 		if(REGION_SUPPLY) //supply
-			return list(access_mailsorting, access_mining, access_mining_station, access_mineral_storeroom, access_cargo, access_qm)
+			return list(access_mailsorting, access_mining, access_mining_station, access_mineral_storeroom, access_cargo, access_qm, access_mint)
 		if(REGION_COMMAND) //command
 			return list(access_heads, access_RC_announce, access_keycard_auth, access_change_ids, access_ai_upload, access_teleporter, access_eva, access_tcomsat, access_gateway, access_all_personal_lockers, access_heads_vault, access_blueshield, access_ntrep, access_hop, access_captain)
 		if(REGION_CENTCOMM) //because why the heck not
@@ -426,6 +427,8 @@ var/const/access_trade_sol = 160
 			return "Keycode Auth. Device"
 		if(access_tcomsat)
 			return "Telecommunications"
+		if (access_mint)
+			return "Mint"
 		if(access_gateway)
 			return "Gateway"
 		if(access_sec_doors)

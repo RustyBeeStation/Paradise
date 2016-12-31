@@ -1,0 +1,361 @@
+
+
+Starting up. 09:37.22
+---------------------
+Saved mode is 'extended'
+Failed to connect to database in load_admins(). Reverting to legacy system.
+Database connection failed. Reverting to the legacy ban system.
+[09:37:28]DEBUG: Measuring map: _maps/map_files/templates/light_floor_1.dmm
+[09:37:28]DEBUG: 1
+[09:37:28]DEBUG: Loaded map in 0s.
+[09:37:28]DEBUG: Measuring map: _maps/map_files/templates/light_floor_2.dmm
+[09:37:28]DEBUG: 1
+[09:37:28]DEBUG: Loaded map in 0s.
+[09:37:29]DEBUG: Measuring map: _maps/map_files/templates/light_floor_3.dmm
+[09:37:29]DEBUG: 1
+[09:37:29]DEBUG: Loaded map in 0s.
+[09:37:29]DEBUG: Measuring map: _maps/map_files/templates/medium_shuttle1.dmm
+[09:37:29]DEBUG: 1
+[09:37:29]DEBUG: Loaded map in 0s.
+[09:37:29]DEBUG: Measuring map: _maps/map_files/templates/medium_shuttle2.dmm
+[09:37:29]DEBUG: 1
+[09:37:29]DEBUG: Loaded map in 0s.
+[09:37:29]DEBUG: Measuring map: _maps/map_files/templates/medium_shuttle3.dmm
+[09:37:29]DEBUG: 1
+[09:37:29]DEBUG: Loaded map in 0s.
+[09:37:29]DEBUG: Measuring map: _maps/map_files/templates/shelter_1.dmm
+[09:37:29]DEBUG: 1
+[09:37:29]DEBUG: Loaded map in 0s.
+[09:37:29]DEBUG: Measuring map: _maps/map_files/templates/small_asteroid_1.dmm
+[09:37:29]DEBUG: 1
+[09:37:29]DEBUG: Loaded map in 0s.
+[09:37:29]DEBUG: Measuring map: _maps/map_files/templates/small_shuttle_1.dmm
+[09:37:30]DEBUG: 1
+[09:37:30]DEBUG: Loaded map in 0.2s.
+[09:37:30]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/abandonedzoo.dmm
+[09:37:30]DEBUG: 1
+[09:37:30]DEBUG: Loaded map in 0s.
+[09:37:30]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/asteroid1.dmm
+[09:37:30]DEBUG: 1
+[09:37:30]DEBUG: Loaded map in 0s.
+[09:37:30]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/asteroid2.dmm
+[09:37:30]DEBUG: 1
+[09:37:30]DEBUG: Loaded map in 0s.
+[09:37:30]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/asteroid3.dmm
+[09:37:30]DEBUG: 1
+[09:37:30]DEBUG: Loaded map in 0s.
+[09:37:30]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/asteroid4.dmm
+[09:37:30]DEBUG: 1
+[09:37:30]DEBUG: Loaded map in 0s.
+[09:37:30]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/asteroid5.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0.2s.
+[09:37:31]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/deepstorage.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0s.
+[09:37:31]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/derelict1.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0s.
+[09:37:31]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/derelict2.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0s.
+[09:37:31]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/derelict3.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0s.
+[09:37:31]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/derelict4.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0s.
+[09:37:31]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/derelict5.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0s.
+[09:37:31]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/emptyshell.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0s.
+[09:37:31]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/gasthelizards.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0s.
+[09:37:31]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/intactemptyship.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0s.
+[09:37:31]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/mechtransport.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0s.
+[09:37:31]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/onehalf.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0s.
+[09:37:31]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/spacebar.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0s.
+[09:37:31]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/turretedoutpost.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0s.
+[09:37:31]DEBUG: Measuring map: _maps/map_files/RandomRuins/SpaceRuins/way_home.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0s.
+[09:37:31]DEBUG: Measuring map: _maps/map_files/templates/shelter_1.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0s.
+[09:37:31]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_bar.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0s.
+[09:37:31]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_cyb.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0s.
+[09:37:31]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_clown.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0s.
+[09:37:31]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_cramped.dmm
+[09:37:31]DEBUG: 1
+[09:37:31]DEBUG: Loaded map in 0s.
+[09:37:32]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_meta.dmm
+[09:37:32]DEBUG: 1
+[09:37:32]DEBUG: Loaded map in 0s.
+[09:37:32]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_narnar.dmm
+[09:37:32]DEBUG: 1
+[09:37:32]DEBUG: Loaded map in 0s.
+[09:37:32]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_old.dmm
+[09:37:32]DEBUG: 1
+[09:37:32]DEBUG: Loaded map in 0s.
+[09:37:32]DEBUG: Measuring map: _maps/map_files/shuttles/ferry_base.dmm
+[09:37:32]DEBUG: 1
+[09:37:32]DEBUG: Loaded map in 0s.
+[09:37:32]DEBUG: Measuring map: _maps/map_files/shuttles/ferry_meat.dmm
+[09:37:32]DEBUG: 1
+[09:37:32]DEBUG: Loaded map in 0s.
+[09:37:32]DEBUG: Placing an init freeze on z-level '7'!
+[09:37:32]DEBUG: Loading map: _maps/map_files/RandomRuins/SpaceRuins/asteroid5.dmm
+[09:37:32]DEBUG: 11
+[09:37:32]DEBUG: Loaded map in 0.1s.
+[09:37:32]DEBUG: Setting up atmos
+[09:37:32]DEBUG: 	Took 0s
+[09:37:32]DEBUG: Initializing lighting
+[09:37:32]DEBUG: 	Took 0s
+[09:37:32]DEBUG: Smoothing tiles
+[09:37:32]DEBUG: 	Took 0s
+[09:37:32]DEBUG: Late setup finished - took 0s
+[09:37:32]DEBUG: Releasing freeze on z-level '7'!
+[09:37:32]DEBUG: Beginning initialization!
+[09:37:32]DEBUG: Primary initialization finished in 0s.
+[09:37:32]DEBUG: Assigning space turf destinations...
+[09:37:32]DEBUG: Z level 1
+[09:37:32]DEBUG: Z level 2
+[09:37:32]DEBUG: Z level 3
+[09:37:32]DEBUG: Z level 4
+[09:37:32]DEBUG: Z level 5
+[09:37:32]DEBUG: Z level 6
+[09:37:32]DEBUG: Z level 7
+[09:37:32]DEBUG: Assigning space turf destinations complete. Took 0.2s.
+
+
+Starting up. 09:38.57
+---------------------
+Saved mode is 'extended'
+[09:38:58]ADMIN: Loading jobban_rank
+[09:38:58]ADMIN: jobban_keylist was empty
+[09:38:58]ADMIN: Loading Banlist
+[09:38:59]GAME: SQL ERROR during loading player preferences. Error : [not connected]
+
+[09:38:59]GAME: SQL ERROR during saving player preferences. Error : [not connected]
+
+[09:38:59]GAME: SQL ERROR during character slot saving. Error : [not connected]
+
+[09:38:59]ACCESS: Login: Babalu01/(Babalu01) from localhost-2823549640 || BYOND v511
+[09:39:02]DEBUG: Measuring map: _maps/map_files/templates/light_floor_1.dmm
+[09:39:03]DEBUG: 1
+[09:39:03]DEBUG: Loaded map in 0.1s.
+[09:39:03]DEBUG: Measuring map: _maps/map_files/templates/light_floor_2.dmm
+[09:39:03]DEBUG: 1
+[09:39:03]DEBUG: Loaded map in 0s.
+[09:39:03]DEBUG: Measuring map: _maps/map_files/templates/light_floor_3.dmm
+[09:39:03]DEBUG: 1
+[09:39:03]DEBUG: Loaded map in 0s.
+[09:39:03]DEBUG: Measuring map: _maps/map_files/templates/medium_shuttle1.dmm
+[09:39:04]DEBUG: 1
+[09:39:04]DEBUG: Loaded map in 0.1s.
+[09:39:04]DEBUG: Measuring map: _maps/map_files/templates/medium_shuttle2.dmm
+[09:39:04]DEBUG: 1
+[09:39:04]DEBUG: Loaded map in 0s.
+[09:39:04]DEBUG: Measuring map: _maps/map_files/templates/medium_shuttle3.dmm
+[09:39:04]DEBUG: 1
+[09:39:04]DEBUG: Loaded map in 0s.
+[09:39:04]DEBUG: Measuring map: _maps/map_files/templates/shelter_1.dmm
+[09:39:04]DEBUG: 1
+[09:39:04]DEBUG: Loaded map in 0s.
+[09:39:04]DEBUG: Measuring map: _maps/map_files/templates/small_asteroid_1.dmm
+[09:39:04]DEBUG: 1
+[09:39:04]DEBUG: Loaded map in 0s.
+[09:39:04]DEBUG: Measuring map: _maps/map_files/templates/small_shuttle_1.dmm
+[09:39:04]DEBUG: 1
+[09:39:04]DEBUG: Loaded map in 0s.
+[09:39:04]DEBUG: Measuring map: _maps/map_files/templates/shelter_1.dmm
+[09:39:04]DEBUG: 1
+[09:39:04]DEBUG: Loaded map in 0s.
+[09:39:04]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_bar.dmm
+[09:39:04]DEBUG: 1
+[09:39:04]DEBUG: Loaded map in 0s.
+[09:39:04]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_cyb.dmm
+[09:39:04]DEBUG: 1
+[09:39:04]DEBUG: Loaded map in 0s.
+[09:39:04]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_clown.dmm
+[09:39:04]DEBUG: 1
+[09:39:04]DEBUG: Loaded map in 0s.
+[09:39:04]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_cramped.dmm
+[09:39:04]DEBUG: 1
+[09:39:04]DEBUG: Loaded map in 0.1s.
+[09:39:04]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_meta.dmm
+[09:39:04]DEBUG: 1
+[09:39:04]DEBUG: Loaded map in 0s.
+[09:39:04]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_narnar.dmm
+[09:39:04]DEBUG: 1
+[09:39:04]DEBUG: Loaded map in 0s.
+[09:39:04]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_old.dmm
+[09:39:04]DEBUG: 1
+[09:39:04]DEBUG: Loaded map in 0s.
+[09:39:04]DEBUG: Measuring map: _maps/map_files/shuttles/ferry_base.dmm
+[09:39:04]DEBUG: 1
+[09:39:04]DEBUG: Loaded map in 0s.
+[09:39:04]DEBUG: Measuring map: _maps/map_files/shuttles/ferry_meat.dmm
+[09:39:04]DEBUG: 1
+[09:39:04]DEBUG: Loaded map in 0s.
+[09:39:05]DEBUG: Placing an init freeze on z-level '8'!
+[09:39:05]DEBUG: Loading map: _maps/map_files/RandomZLevels/listeningpost.dmm
+[09:39:05]DEBUG: 1
+[09:39:05]DEBUG: Loaded map in 0.4s.
+[09:39:05]DEBUG: Setting up atmos
+[09:39:05]DEBUG: 	Took 0.1s
+[09:39:06]DEBUG: Initializing lighting
+[09:39:06]DEBUG: 	Took 0s
+[09:39:06]DEBUG: Smoothing tiles
+[09:39:06]DEBUG: 	Took 0.1s
+[09:39:06]DEBUG: Late setup finished - took 0.2s
+[09:39:06]DEBUG: Releasing freeze on z-level '8'!
+[09:39:06]DEBUG: Beginning initialization!
+[09:39:06]DEBUG: Primary initialization finished in 0s.
+[09:39:06]DEBUG: Assigning space turf destinations...
+[09:39:06]DEBUG: Z level 1
+[09:39:06]DEBUG: Z level 2
+[09:39:06]DEBUG: Z level 3
+[09:39:06]DEBUG: Z level 4
+[09:39:06]DEBUG: Z level 5
+[09:39:06]DEBUG: Z level 6
+[09:39:06]DEBUG: Z level 7
+[09:39:06]DEBUG: Z level 8
+[09:39:06]DEBUG: Assigning space turf destinations complete. Took 0.2s.
+[09:39:40]ACCESS: Logout: Babalu01/(Babalu01)
+
+
+Starting up. 11:47.29
+---------------------
+Saved mode is 'extended'
+[11:47:30]ADMIN: Loading jobban_rank
+[11:47:30]ADMIN: jobban_keylist was empty
+[11:47:30]ADMIN: Loading Banlist
+[11:47:31]GAME: SQL ERROR during loading player preferences. Error : [not connected]
+
+[11:47:31]GAME: SQL ERROR during saving player preferences. Error : [not connected]
+
+[11:47:31]GAME: SQL ERROR during character slot saving. Error : [not connected]
+
+[11:47:31]ACCESS: Login: Babalu01/(Babalu01) from localhost-2823549640 || BYOND v511
+[11:47:36]DEBUG: Measuring map: _maps/map_files/templates/light_floor_1.dmm
+[11:47:36]DEBUG: 1
+[11:47:36]DEBUG: Loaded map in 0s.
+[11:47:36]DEBUG: Measuring map: _maps/map_files/templates/light_floor_2.dmm
+[11:47:36]DEBUG: 1
+[11:47:36]DEBUG: Loaded map in 0s.
+[11:47:36]DEBUG: Measuring map: _maps/map_files/templates/light_floor_3.dmm
+[11:47:36]DEBUG: 1
+[11:47:36]DEBUG: Loaded map in 0s.
+[11:47:36]DEBUG: Measuring map: _maps/map_files/templates/medium_shuttle1.dmm
+[11:47:37]DEBUG: 1
+[11:47:37]DEBUG: Loaded map in 0.1s.
+[11:47:37]DEBUG: Measuring map: _maps/map_files/templates/medium_shuttle2.dmm
+[11:47:37]DEBUG: 1
+[11:47:37]DEBUG: Loaded map in 0s.
+[11:47:37]DEBUG: Measuring map: _maps/map_files/templates/medium_shuttle3.dmm
+[11:47:37]DEBUG: 1
+[11:47:37]DEBUG: Loaded map in 0s.
+[11:47:37]DEBUG: Measuring map: _maps/map_files/templates/shelter_1.dmm
+[11:47:37]DEBUG: 1
+[11:47:37]DEBUG: Loaded map in 0s.
+[11:47:37]DEBUG: Measuring map: _maps/map_files/templates/small_asteroid_1.dmm
+[11:47:37]DEBUG: 1
+[11:47:37]DEBUG: Loaded map in 0s.
+[11:47:37]DEBUG: Measuring map: _maps/map_files/templates/small_shuttle_1.dmm
+[11:47:37]DEBUG: 1
+[11:47:37]DEBUG: Loaded map in 0s.
+[11:47:37]DEBUG: Measuring map: _maps/map_files/templates/shelter_1.dmm
+[11:47:37]DEBUG: 1
+[11:47:37]DEBUG: Loaded map in 0s.
+[11:47:37]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_bar.dmm
+[11:47:37]DEBUG: 1
+[11:47:37]DEBUG: Loaded map in 0s.
+[11:47:37]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_cyb.dmm
+[11:47:37]DEBUG: 1
+[11:47:37]DEBUG: Loaded map in 0s.
+[11:47:37]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_clown.dmm
+[11:47:37]DEBUG: 1
+[11:47:37]DEBUG: Loaded map in 0s.
+[11:47:37]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_cramped.dmm
+[11:47:37]DEBUG: 1
+[11:47:37]DEBUG: Loaded map in 0s.
+[11:47:37]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_meta.dmm
+[11:47:37]DEBUG: 1
+[11:47:37]DEBUG: Loaded map in 0.1s.
+[11:47:37]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_narnar.dmm
+[11:47:38]DEBUG: 1
+[11:47:38]DEBUG: Loaded map in 0s.
+[11:47:38]DEBUG: Measuring map: _maps/map_files/shuttles/emergency_old.dmm
+[11:47:38]DEBUG: 1
+[11:47:38]DEBUG: Loaded map in 0s.
+[11:47:38]DEBUG: Measuring map: _maps/map_files/shuttles/ferry_base.dmm
+[11:47:38]DEBUG: 1
+[11:47:38]DEBUG: Loaded map in 0s.
+[11:47:38]DEBUG: Measuring map: _maps/map_files/shuttles/ferry_meat.dmm
+[11:47:38]DEBUG: 1
+[11:47:38]DEBUG: Loaded map in 0s.
+[11:47:38]DEBUG: Placing an init freeze on z-level '8'!
+[11:47:39]DEBUG: Loading map: _maps/map_files/RandomZLevels/blackmarketpackers.dmm
+[11:47:39]DEBUG: 1
+[11:47:39]DEBUG: Loaded map in 0.9s.
+[11:47:40]DEBUG: Setting up atmos
+[11:47:40]DEBUG: 	Took 0.1s
+[11:47:40]DEBUG: Initializing lighting
+[11:47:40]DEBUG: 	Took 0s
+[11:47:40]DEBUG: Smoothing tiles
+[11:47:40]DEBUG: 	Took 0.1s
+[11:47:40]DEBUG: Late setup finished - took 0.2s
+[11:47:40]DEBUG: Releasing freeze on z-level '8'!
+[11:47:40]DEBUG: Beginning initialization!
+[11:47:40]DEBUG: Primary initialization finished in 0s.
+[11:47:40]DEBUG: Assigning space turf destinations...
+[11:47:40]DEBUG: Z level 1
+[11:47:40]DEBUG: Z level 2
+[11:47:40]DEBUG: Z level 3
+[11:47:40]DEBUG: Z level 4
+[11:47:40]DEBUG: Z level 5
+[11:47:40]DEBUG: Z level 6
+[11:47:40]DEBUG: Z level 7
+[11:47:40]DEBUG: Z level 8
+[11:47:40]DEBUG: Assigning space turf destinations complete. Took 0.3s.
+[11:48:28]GAME: SQL ERROR during saving player preferences. Error : [not connected]
+
+[11:48:28]GAME: SQL ERROR during character slot saving. Error : [not connected]
+
+[11:49:46]ADMIN: Babalu01/(Babalu01) has started the game.
+[11:49:47]ACCESS: Logout: *no key*/(Babalu01)
+[11:49:47]ACCESS: Login: Babalu01/(Jonas Bloise) from localhost-2823549640 || BYOND v511
+[11:49:48]DEBUG: Next event of severity Mundane in 14.168 minutes.
+[11:49:48]DEBUG: Next event of severity Moderate in 38.274 minutes.
+[11:49:48]DEBUG: Next event of severity Major in 92.705 minutes.
+[11:49:49]EMOTE: Santa's Corgi Helper/ : <B>Santa's Corgi Helper</B> chases its tail!
+[11:49:51]SAY: Officer Beepsky/ : Engaging patrol mode.
+[11:49:51]SAY: Prison Ofitser/ : Engaging patrol mode.
+[11:49:53]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the breath mask
+[11:49:55]SAY: pig/ : OINK
+[11:49:55]SAY: Prison Ofitser/ : Engaging patrol mode.
+[11:49:59]SAY: Prison Ofitser/ : Engaging patrol mode.
+[11:50:03]SAY: Prison Ofitser/ : Engaging patrol mode.
+[11:50:07]SAY: Prison Ofitser/ : Engaging patrol mode.
+[11:50:10]SAY: Prison Ofitser/ : Unable to start patrol.
+[11:50:13]ACCESS: Logout: Babalu01/(Jonas Bloise)

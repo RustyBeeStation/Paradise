@@ -363,3 +363,30 @@
 		H.equip_or_collect(new /obj/item/weapon/storage/box/barber(H), slot_in_backpack)
 		H.equip_or_collect(new /obj/item/weapon/storage/box/lip_stick(H), slot_in_backpack)
 		return 1
+
+/datum/job/banker
+	title = "Banker"
+	flag = BANKER
+	department_flag = SUPPORT
+	total_positions = 1
+	spawn_positions = 1
+	supervisors = "the head of personnel"
+	selection_color = "#dddddd"
+	alt_titles = list ("Accountant","Money Hoarder")
+	access = list(access_mint, access_maint_tunnels)
+	minimal_access = list(access_mint, access_maint_tunnels)
+
+
+	equip(var/mob/living/carbon/human/H)
+		if(!H)	return 0
+		switch(H.backbag)
+			if(2) H.equip_or_collect(new /obj/item/weapon/storage/backpack(H), slot_back)
+			if(3) H.equip_or_collect(new /obj/item/weapon/storage/backpack/satchel_norm(H), slot_back)
+			if(4) H.equip_or_collect(new /obj/item/weapon/storage/backpack/satchel(H), slot_back)
+		H.equip_or_collect(new /obj/item/device/radio/headset/headset_service(H), slot_l_ear)
+		H.equip_or_collect(new /obj/item/clothing/under/barber(H), slot_w_uniform)
+		H.equip_or_collect(new /obj/item/clothing/shoes/black(H), slot_shoes)
+		H.equip_or_collect(new /obj/item/weapon/storage/box/survival(H), slot_in_backpack)
+		H.equip_or_collect(new /obj/item/weapon/storage/box/barber(H), slot_in_backpack)
+		H.equip_or_collect(new /obj/item/weapon/storage/box/lip_stick(H), slot_in_backpack)
+		return 1
